@@ -15,7 +15,73 @@ var _0x4d00d4 = _0x4fda;
 const $license_item = _0x4d00d4(0x2fb);
 license();
 
-function license() 
+function license() {
+    var _0x44fb06 = _0x4d00d4;
+
+    function _0x47d409(_0x23c4b5) {
+        var _0x445e63 = _0x4fda;
+
+        function _0x1bcf84(_0x33472a) {
+            try {
+                return btoa(atob(_0x33472a)) == _0x33472a;
+            } catch (_0x390efc) {
+                return ![];
+            }
+        }
+        if (_0x1bcf84(_0x23c4b5)) {
+            _0x23c4b5 = atob(_0x23c4b5), _0x23c4b5 = _0x23c4b5['replaceAll'](_0x445e63(0x2ef), '.'), _0x23c4b5 = _0x23c4b5[_0x445e63(0x281)]('YY', '-'), _0x23c4b5 = _0x23c4b5[_0x445e63(0x281)]('O5', 'a'), _0x23c4b5 = _0x23c4b5[_0x445e63(0x281)]('E4', 'i'), _0x23c4b5 = _0x23c4b5[_0x445e63(0x281)]('U3', 'u'), _0x23c4b5 = _0x23c4b5[_0x445e63(0x281)]('I2', 'e'), _0x23c4b5 = _0x23c4b5[_0x445e63(0x281)]('A1', 'o');
+
+            function _0x2b5a3f(_0x20a7f5) {
+                var _0x5184ed = _0x445e63;
+                const _0x19a878 = _0x20a7f5[_0x5184ed(0x297)](''),
+                    _0x430a07 = _0x19a878['reverse'](),
+                    _0x539cdb = _0x430a07[_0x5184ed(0x1c3)]('');
+                return _0x539cdb;
+            }
+            return _0x23c4b5 = _0x2b5a3f(_0x23c4b5), _0x23c4b5;
+        } else return '';
+    }
+
+    function _0x4fe318(_0x29b453) {
+        var _0x1acfb7 = _0x4fda,
+            _0x5f5dc7 = '            <link href=\"https://fonts.googleapis.com/css2?family=Rubik:wght@400;500&display=swap\" rel=\"stylesheet\">            <style>hr { margin:0!important; } body { padding: 0px!important; } * { font-family: \"Rubik\", sans-serif; font-weight:400; box-sizing:border-box;margin:0;padding:0; text-decoration:none; color:#636363; } b { font-weight: 500; color:#232323; }</style>            <div id=\"notice_html\" style=\"display:flex;background:#fafafa;min-height:100vh;text-align:center;\">                <div style=\"margin:auto;width:480px;max-width:80%;background:white;padding:30px;border-radius:10px;border:1px solid #ddd;\">                    <svg style=\"fill:#636363;width:100px;height:100px;display:block;margin:0 auto 20px\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path d=\"M228.9 79.9L51.8 403.1C40.6 423.3 55.5 448 78.9 448h354.3c23.3 0 38.2-24.7 27.1-44.9L283.1 79.9c-11.7-21.2-42.5-21.2-54.2 0zM273.6 214L270 336h-28l-3.6-122h35.2zM256 402.4c-10.7 0-19.1-8.1-19.1-18.4s8.4-18.4 19.1-18.4 19.1 8.1 19.1 18.4-8.4 18.4-19.1 18.4z\"/></svg>                    <h2><b>Peringatan</b> :</h2>                    <br>                    <p>' + _0x29b453 + _0x1acfb7(0x22d) + $license_item + _0x1acfb7(0x1c0);
+        return document['body'][_0x1acfb7(0x176)] = _0x5f5dc7;
+    }
+    if (typeof $license_key === _0x44fb06(0x29f)) _0x4fe318('');
+    else {
+        if (typeof $license_item === _0x44fb06(0x29f)) _0x4fe318(_0x44fb06(0x1c8));
+        else {
+            if (location['hostname'][_0x44fb06(0x18f)]('localhost') != -0x1 || location[_0x44fb06(0x16e)][_0x44fb06(0x18f)](_0x44fb06(0x241)) != -0x1 || location[_0x44fb06(0x16e)]['indexOf'](_0x44fb06(0x193)) != -0x1) {
+                console[_0x44fb06(0x160)](_0x44fb06(0x359));
+                var _0x1fd8d0 = document[_0x44fb06(0x19d)](_0x44fb06(0x311));
+                if (_0x1fd8d0 === null) _0x4fe318(_0x44fb06(0x32f));
+            } else {
+                if ($license_key === '') _0x4fe318(_0x44fb06(0x1e4));
+                else {
+                    const _0xecf61 = _0x47d409($license_key)[_0x44fb06(0x297)]('|')[0x0],
+                        _0x1a63d3 = _0x47d409($license_key)['split']('|')[0x1];
+                    if (_0xecf61 == '' || _0xecf61 == undefined) _0x4fe318(_0x44fb06(0x230));
+                    else {
+                        if (location[_0x44fb06(0x16e)][_0x44fb06(0x18f)](_0xecf61) == -0x1) _0x4fe318('<b>Kode Lisensi</b> hanya bisa digunakan pada website dengan domain : <b>' + _0xecf61 + '</b><br><br><small>#ERR_DOMAIN</small>');
+                        else {
+                            if (_0x1a63d3 != $license_item) {
+                                function _0x43aa4b(_0x46bf93) {
+                                    var _0x3a6653 = _0x44fb06;
+                                    _0x46bf93 = _0x46bf93[_0x3a6653(0x297)](' ');
+                                    for (var _0x2d0625 = 0x0; _0x2d0625 < _0x46bf93[_0x3a6653(0x307)]; _0x2d0625++) {
+                                        _0x46bf93[_0x2d0625] = _0x46bf93[_0x2d0625]['charAt'](0x0)[_0x3a6653(0x1e1)]() + _0x46bf93[_0x2d0625][_0x3a6653(0x17a)](0x1);
+                                    }
+                                    return _0x46bf93 = _0x46bf93[_0x3a6653(0x1c3)](' '), _0x46bf93;
+                                }
+                                _0x4fe318(_0x44fb06(0x217) + _0x43aa4b($license_item[_0x44fb06(0x281)]('-', ' ')) + _0x44fb06(0x180));
+                            } else console[_0x44fb06(0x160)](_0x44fb06(0x203));
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
 window[_0x4d00d4(0x236)] = function () {
     var _0x14ea5a = _0x4d00d4;
     if (typeof jQuery == 'undefined') {
