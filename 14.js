@@ -48,8 +48,6 @@ function license() {
         return document['body'][_0x1acfb7(0x176)] = _0x5f5dc7;
     }
     if (typeof $license_key === _0x44fb06(0x29f)) _0x4fe318('');
-    else {
-        if (typeof $license_item === _0x44fb06(0x29f)) _0x4fe318(_0x44fb06(0x1c8));
         else {
             if (location['hostname'][_0x44fb06(0x18f)]('localhost') != -0x1 || location[_0x44fb06(0x16e)][_0x44fb06(0x18f)](_0x44fb06(0x241)) != -0x1 || location[_0x44fb06(0x16e)]['indexOf'](_0x44fb06(0x193)) != -0x1) {
                 console[_0x44fb06(0x160)](_0x44fb06(0x359));
@@ -67,7 +65,6 @@ function license() {
                                 }
                     }
             }
-        }
     }
 window[_0x4d00d4(0x236)] = function () {
     var _0x14ea5a = _0x4d00d4;
