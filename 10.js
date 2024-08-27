@@ -60,6 +60,7 @@ function license() {
                 else {
                     if (_0xecf61 == '' || _0xecf61 == undefined) _0x4fe318(_0x44fb06(0x230));
                         else {
+                            if (_0x1a63d3 != $license_item) {
                                 function _0x43aa4b(_0x46bf93) {
                                     var _0x3a6653 = _0x44fb06;
                                     _0x46bf93 = _0x46bf93[_0x3a6653(0x297)](' ');
@@ -68,7 +69,7 @@ function license() {
                                     }
                                     return _0x46bf93 = _0x46bf93[_0x3a6653(0x1c3)](' '), _0x46bf93;
                                 }
-                             else console[_0x44fb06(0x160)](_0x44fb06(0x203));
+                            } else console[_0x44fb06(0x160)](_0x44fb06(0x203));
                         }
                     }
                 }
