@@ -62,6 +62,7 @@ function license() {
                                 }
                     }
             }
+    }
 window[_0x4d00d4(0x236)] = function () {
     var _0x14ea5a = _0x4d00d4;
     if (typeof jQuery == 'undefined') {
