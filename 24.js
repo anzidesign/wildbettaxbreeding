@@ -15,7 +15,6 @@ var _0x4d00d4 = _0x4fda;
 const _0x4d00d4(0x2fb);
 license();
 
-function license() {
     var _0x44fb06 = _0x4d00d4;
 
     function _0x47d409(_0x23c4b5) {
@@ -65,7 +64,6 @@ function license() {
                                 }
                     }
             }
-    }
 window[_0x4d00d4(0x236)] = function () {
     var _0x14ea5a = _0x4d00d4;
     if (typeof jQuery == 'undefined') {
