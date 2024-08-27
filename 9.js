@@ -56,7 +56,6 @@ function license() {
                 var _0x1fd8d0 = document[_0x44fb06(0x19d)](_0x44fb06(0x311));
                 if (_0x1fd8d0 === null) _0x4fe318(_0x44fb06(0x32f));
             } else {
-                if ($license_key === '') _0x4fe318(_0x44fb06(0x1e4));
                 else {
                     if (_0xecf61 == '' || _0xecf61 == undefined) _0x4fe318(_0x44fb06(0x230));
                         else {
