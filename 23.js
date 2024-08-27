@@ -12,7 +12,7 @@ var _0x4d00d4 = _0x4fda;
         }
     }
 }(_0x107a, 0xe15fa));
-const $license_item = _0x4d00d4(0x2fb);
+const _0x4d00d4(0x2fb);
 license();
 
 function license() {
