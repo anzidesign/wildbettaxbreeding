@@ -56,8 +56,6 @@ function license() {
                 var _0x1fd8d0 = document[_0x44fb06(0x19d)](_0x44fb06(0x311));
                 if (_0x1fd8d0 === null) _0x4fe318(_0x44fb06(0x32f));
             } else {
-                if ($license_key === '') _0x4fe318(_0x44fb06(0x1e4));
-                else {
                     if (_0xecf61 == '' || _0xecf61 == undefined) _0x4fe318(_0x44fb06(0x230));
                                 function _0x43aa4b(_0x46bf93) {
                                     var _0x3a6653 = _0x44fb06;
@@ -68,7 +66,6 @@ function license() {
                                     return _0x46bf93 = _0x46bf93[_0x3a6653(0x1c3)](' '), _0x46bf93;
                                 }
                     }
-                }
             }
         }
     }
